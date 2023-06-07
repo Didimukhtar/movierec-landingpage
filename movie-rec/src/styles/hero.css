@@ -1,0 +1,27 @@
+ .hero {
+    background-image: url('../../images/hero_img.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 400px; /* Adjust the height as needed */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+  
+  /*.hero-content {
+    text-align: center;
+    color: #fff;
+  }
+  */
+  
+  .hero-content h1 {
+    font-size: 36px;
+    font-weight: bold;
+    color: rgb(226, 220, 220);
+  }
+
+  .button-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }

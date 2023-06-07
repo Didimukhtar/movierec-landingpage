@@ -1,0 +1,17 @@
+.main-container {
+    height: 50px;
+}
+
+.logo {
+    height: 50px;
+    width: 17rem;
+}
+
+.mx-auto{
+    padding-left: 100px;
+   
+}
+
+.navbar {
+    padding-left: 50px;
+}
