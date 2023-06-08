@@ -1,0 +1,7 @@
+.card-image {
+    background-image: url(${feature.backgroungImage});
+    background-size: cover;
+    background-position: center;
+    height: 17em;
+    margin-top: 20px;
+}

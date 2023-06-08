@@ -22,13 +22,13 @@ export default function Footer(){
           <Col md={4}>
             <h5>Follow Us</h5>
             <div className="social-icons">
-              <a href="https://twitter.com" target="_blank" rel="noopener noreferrer">
+              <a href="https://twitter.com/didimukhtar" target="_blank" rel="noopener noreferrer">
                 <AiFillTwitterCircle className="icon" />
               </a>
-              <a href="https://instagram.com" target="_blank" rel="noopener noreferrer">
+              <a href="https://instagram.com/didimukhtar" target="_blank" rel="noopener noreferrer">
                 <AiFillInstagram className="icon" />
               </a>
-              <a href="https://github.com" target="_blank" rel="noopener noreferrer">
+              <a href="https://github.com/Didimukhtar/movie-recommendation-system" target="_blank" rel="noopener noreferrer">
                 <AiFillGithub className="icon" />
               </a>
             </div>
